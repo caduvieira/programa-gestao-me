@@ -11,6 +11,7 @@ Bem vindo a Documentação do Programa de Gestão do ME!
    :caption: Contents:
 
    proposicao_plano_trabalho
+   conclusao_atividades
 
 Indices and tables
 ==================
