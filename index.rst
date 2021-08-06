@@ -12,6 +12,7 @@ Bem vindo a Documentação do Programa de Gestão do ME!
 
    proposicao_plano_trabalho
    conclusao_atividades
+   inclusao_nova_atividade
 
 Índices and tabelas
 ==================
