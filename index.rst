@@ -8,12 +8,12 @@ Bem vindo a Documentação do Programa de Gestão do ME!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Conteúdo:
 
    proposicao_plano_trabalho
    conclusao_atividades
 
-Indices and tables
+Índices and tabelas
 ==================
 
 * :ref:`genindex`
